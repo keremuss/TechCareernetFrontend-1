@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width= , initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+       
+
+<p> 
+    Semantik, anlam veya anlamlandırma anlamı ifadesi taşımaktadır. O halde semantik elementler herhangi bir anlamı olan etiketler ifadesi taşımaktadır. Semantik olarak anlamlandırılmış bir element hem tarayıcıya hem geliştiriciye ne anlama geldiğini açık bir şekilde belirtir. div ve span gibi elementler semantik olmayan elementlerdir ve mevcut içeriğin hakkında bilgi vermezler. form, table ve img gibi elementler semantik elementlerdir ve içeriği açıkça belirtirler.
+</p>
+
+
+
+
+</body>
+</html>
